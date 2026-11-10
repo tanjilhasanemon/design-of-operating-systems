@@ -14,7 +14,7 @@ Each CP task is contained within its own folder, following a standard structure:
 ## Class Performances Index
 
 - [x] **CP01**: Linux VM Setup (`CP01-Linux-VM-Setup`)
-- [ ] **CP02**: Shell Programming and Scripts (`CP02-Shell-Programming`)
+- [x] **CP02**: Shell Programming and Scripts (`CP02-Shell-Programming`)
 - [ ] **CP03**: Multi-process Programming (`CP03-Multi-Process`)
 - [ ] **CP04**: MPC (`CP04-MPC`)
 - [ ] **CP05**: MPI (`CP05-MPI`)
