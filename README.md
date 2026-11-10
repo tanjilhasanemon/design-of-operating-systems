@@ -15,8 +15,8 @@ Each CP task is contained within its own folder, following a standard structure:
 
 - [x] **CP01**: Linux VM Setup (`CP01-Linux-VM-Setup`)
 - [x] **CP02**: Shell Programming and Scripts (`CP02-Shell-Programming`)
-- [ ] **CP03**: Multi-process Programming (`CP03-Multi-Process`)
-- [ ] **CP04**: MPC (`CP04-MPC`)
+- [x] **CP03**: Multi-process Programming (`CP03-Multi-Process`)
+- [x] **CP04**: MPC (`CP04-MPC`)
 - [ ] **CP05**: MPI (`CP05-MPI`)
 - [ ] **CP06**: MT (`CP06-MT`)
 - [ ] **CP07**: MT_Impl (`CP07-MT_Impl`)
