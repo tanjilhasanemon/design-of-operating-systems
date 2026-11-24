@@ -20,6 +20,6 @@ Each CP task is contained within its own folder, following a standard structure:
 - [ ] **CP05**: MPI (`CP05-MPI`)
 - [x] **CP06**: Multithreaded Programming Models (`CP06-MT`)
 - [ ] **CP07**: MT_Impl (`CP07-MT_Impl`)
-- [ ] **CP08**: SCH (`CP08-SCH`)
+- [x] **CP08**: SCH (`CP08-SCH`)
 - [ ] **CP09**: Sync (`CP09-Sync`)
 - [ ] **CP10**: Kernel (`CP10-Kernel`)
